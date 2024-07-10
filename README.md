@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  1 18:58:41 2024
-
-@author: pgoku
-"""
 
 import cv2 #for image processing
 import easygui #to open the filebox
